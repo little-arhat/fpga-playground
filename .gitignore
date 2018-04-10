@@ -19,3 +19,8 @@ svn-commit*
 *debug.txt
 tags
 cpudefs.h
+/hello-world.ip_user_files/
+/hello-world.cache/
+/hello-world.sim/
+/hello-world.runs/
+/hello-world.hw/
